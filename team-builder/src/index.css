@@ -11,3 +11,45 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.block{
+  display: block;
+  width: 400px;
+  height: 600px;
+  padding: 5px;
+  margin: auto;
+  border: yellow 5px solid;
+}
+
+.button-block{
+  width: 100%;
+  display: block;
+  padding: 1%;
+  margin-top: 5%
+}
+
+.input-block{
+  width: 100%;
+  display: block;
+  padding: 1%;
+  margin-bottom: 12%;
+
+}
+
+ul li {
+  list-style: none;
+  text-align: left;
+  margin-bottom: 5%; 
+}
+
+form{
+  padding: 5%;
+}
+
+input{
+  padding-bottom: 5%;
+}
+
+.padded{
+  padding-top:5%;
+}
